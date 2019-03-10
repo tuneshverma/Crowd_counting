@@ -18,7 +18,7 @@ image.py - Image-prossessing
 
 training.ipynb - All the training takes place
 
-val.ipynb - For validating the training
+val.ipynb - For validating the training with a test image
 
 
 ## References
