@@ -13,9 +13,14 @@ CUDA: 9.2
 
 ## File details
 model.py - CSRNet architecture in pytorch
+
 image.py - Image-prossessing
+
 training.ipynb - All the training takes place
+
 val.ipynb - For validating the training
+
+
 ## References
 
 
